@@ -10,7 +10,8 @@ This repository contains a dashboard that visualizes the sales data for McDonald
 Introduction
 The McDonald's South America Sales Dashboard is a web-based application built to provide insights into the sales data of McDonald's restaurants in the South American region. By visualizing data in the form of interactive charts and graphs, the dashboard aims to help stakeholders and decision-makers make informed choices regarding marketing strategies, operational improvements, and more.
 
-Features
+Features:
+
 **Overview**: Get an overall snapshot of sales performance in South America.
 
 **Regional Breakdown**: View sales data for each country and region within South America.
