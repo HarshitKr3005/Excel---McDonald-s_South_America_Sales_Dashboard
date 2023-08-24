@@ -12,8 +12,13 @@ The McDonald's South America Sales Dashboard is a web-based application built to
 
 Features
 **Overview**: Get an overall snapshot of sales performance in South America.
-Regional Breakdown: View sales data for each country and region within South America.
-Time Trends: Analyze sales trends over different time periods, such as daily, weekly, and monthly.
-Top Selling Items: Discover the most popular menu items across the region.
+
+**Regional Breakdown**: View sales data for each country and region within South America.
+
+**Time Trends**: Analyze sales trends over different time periods, such as daily, weekly, and monthly.
+
+**Top Selling Items**: Discover the most popular menu items across the region.
+
 **Comparison Tools**: Compare sales figures between different countries and regions.
+
 **Responsive Design**: The dashboard is designed to be accessible and usable on various devices.
